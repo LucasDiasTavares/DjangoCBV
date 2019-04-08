@@ -1,6 +1,6 @@
 # DjangoCBV
 Crud usando Class Based View
-- A ideia é de fazer ela ser um crud sem conecção com outras apps para depois eu reutilizar no meu [ProjetoFinal](https://github.com/Pancitopenico/ProjetoFinal/).
+- A ideia é de fazer ela ser um crud sem conexão com outras apps para depois eu reutilizar no meu [ProjetoFinal](https://github.com/Pancitopenico/ProjetoFinal/).
 
 # Página inicial
 ##### Página simples só com um hello world e alguns links
