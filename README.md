@@ -6,6 +6,7 @@ Crud usando Class Based View
 ##### Página simples só com um hello world e alguns links
 
 # Crud Links
+
 - Listar todos os clientes -> localhost:8000/cliente/
 - Criar novo cliente -> localhost:8000/cliente/create/
 - Detalhes do cliente -> localhost:8000/cliente/detail/<int:pk>/
@@ -112,4 +113,7 @@ Ou eu posso pegar está variavel e dar Override nela e especificar o meu templat
 FOTO DO MEU CLIENTE_DETAIL.HTML
 
 ** ***========================*** **
+<<<<<<< HEAD
 
+=======
+>>>>>>> 86737cedbcba3459970691b8394afe1a0c5d9a73
