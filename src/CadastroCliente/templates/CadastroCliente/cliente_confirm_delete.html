@@ -1,0 +1,6 @@
+<form method="post">
+    {% csrf_token %}
+    <p>Você tem certeza que deseja deletar permanentemente o "{{ object.nome }}"?</p>
+    <input type="submit" value="Confirmar">
+    <p><a href="{% url 'cliente_list' %}">Listagem</a></p>
+</form>
